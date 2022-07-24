@@ -1,0 +1,4 @@
+#Sun Jul 24 00:23:00 PKT 2022
+base.0=/Users/mapple/Desktop/blo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
